@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Dhruv Donda!</h1><br>
-# 💫 About Me: 💻 Web Developer | React.js<br><br>🔹 Passionate about building web applications and exploring modern technologies.<br>🔹 Experienced in HTML, CSS, JavaScript, React.js, and iOS (Swift).<br>🔹 Currently learning and improving my skills through projects and courses.
+💫 About Me: 💻 Web Developer | React.js<br><br>🔹 Passionate about building web applications and exploring modern technologies.<br>🔹 Experienced in HTML, CSS, JavaScript, React.js, and iOS (Swift).<br>🔹 Currently learning and improving my skills through projects and courses.
 
 
 ## 🌐 Socials:
